@@ -1,7 +1,7 @@
 {
   "name": "nodejs-rest-http-crud",
   "version": "4.0.0",
-  "description": "",
+  "description": "![Node.js CI](https://github.com/nodeshift-starters/nodejs-rest-http-crud/workflows/ci/badge.svg)\r [![Coverage Status](https://coveralls.io/repos/github/nodeshift-starters/nodejs-rest-http-crud/badge.svg?branch=master)](https://coveralls.io/github/nodeshift-starters/nodejs-rest-http-crud?branch=master)",
   "author": "Red Hat, Inc.",
   "license": "Apache-2.0",
   "scripts": {
@@ -54,5 +54,9 @@
     "pino": "^7.5.1",
     "pino-debug": "^2.0.0",
     "pino-pretty": "^7.2.0"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   }
 }
